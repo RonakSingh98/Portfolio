@@ -25,10 +25,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Social Media App"
+              description="Sociopedia is a dynamic social media platform inspired by Twitter, designed to empower users to share thoughts, connect with communities, and engage in real-time discussions. With a focus on concise communication and trending topics, Sociopedia enables users to post short messages, follow people, and stay updated on the latest conversations."
+              ghLink="https://github.com/RonakSingh98/Social-media"
+              demoLink="https://social-media-5zb8.vercel.app/"
             />
           </Col>
 
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Backend for Todo"
+              description="The To-Do List Backend API is a robust and efficient backend service designed to support a to-do list application. Built with Express.js, this API allows users to create, retrieve, update, and delete their tasks. It handles data persistence, authentication, and provides a structured framework for managing to-do items effectively."
+              ghLink="https://github.com/RonakSingh98/Todo-Backend"
+              demoLink="https://github.com/RonakSingh98/Todo-Backend"
             />
           </Col>
 
@@ -47,10 +47,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="AI landing Page"
+              description="The AI Solutions Landing Page is a sleek, visually engaging introduction to a powerful AI platform, designed to inform visitors about its offerings and encourage them to join. With a modern design and user-friendly navigation, the landing page highlights the platform's cutting-edge features, showcases use cases, and includes an easy login and signup option for new users."
+              ghLink="https://github.com/RonakSingh98/Chatgpt-landing-page"
+              demoLink="https://react-ai-project-frontend.vercel.app/"              
             />
           </Col>
 
@@ -58,10 +58,10 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="GIF Search"
+              description="The GIF Search Engine Website is a fast, user-friendly platform designed to help users search and discover animated GIFs. With an intuitive interface and a powerful search functionality, users can easily find GIFs based on various themes, emotions, or topics. The platform can connect to popular GIF APIs, ensuring a large library of trending and relevant GIFs to choose from."
+              ghLink="https://github.com/RonakSingh98/Giphy-Firebase"
+              demoLink="https://giphy-firebase.vercel.app/"
             />
           </Col>
 
@@ -69,10 +69,10 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="Blockchain Ticket "
+              description="The Blockchain-Enabled Ticket Booking Website is a secure and efficient platform designed to facilitate ticket booking for events such as concerts, sports games, theaters, and more. This platform leverages blockchain technology to ensure transparency, security, and authenticity of transactions, while providing users with a user-friendly experience for booking tickets."
+              ghLink="https://github.com/RonakSingh98/Blockchain-ticket"
+              demoLink="https://blockchain-ticket.vercel.app/"
             />
           </Col>
 
@@ -80,11 +80,10 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Travel Booking"
+              description="The Travel Booking Website is a full-featured platform that allows users to book trips, find accommodations, and explore various destinations. This project offers a seamless user experience with features such as user authentication (login/signup), detailed destination listings, and advanced sorting and filtering options to enhance usability."
+              ghLink="https://github.com/RonakSingh98/TravelBooking"
+              demoLink="https://totality-frontend-challenge-delta.vercel.app/"
             />
           </Col>
         </Row>
